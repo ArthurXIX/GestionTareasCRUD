@@ -20,10 +20,13 @@ Clonar el repositorio:
 Ejecutar los siguientes comandos
 ```sh
    cd GestionTareasCRUD
-   cd backend
    npm install
    ```
    Iniciar el backend con el comando
 ```sh
    npm run start
    ```
+# Demo Online 🌐
+❗Ojo puede que la version online no funcione al obtener y guardar tareas ya que la base de datos usadas en el programa puede no estar permitida en diferentes computadoras por cuestiones de seguridad y protocolos de autenticacion.❗
+
+https://gestion-tareas-crud.vercel.app
