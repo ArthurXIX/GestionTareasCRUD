@@ -1,6 +1,8 @@
 // Ajusta la URL de tu API
-const API_URL = "http://localhost:3000/tasks";
-
+const API_URL = window.location.hostname === 'localhost' 
+  ? 'http://localhost:3000/api/tasks'
+  : '/api/tasks';
+  
 // Variables globales
 let editingTaskId = null; // null = creando; != null = editando
 let allTasks = []; // Aquí guardamos la lista completa para filtrar
