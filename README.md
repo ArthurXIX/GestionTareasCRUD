@@ -1,6 +1,6 @@
 # GestionTareasCRUD 🚀
 
-Un proyecto web para crear tareas y tener un control de ellas.
+Proyecto web creado para entrevista tecnica.
 
 ---
 
@@ -18,10 +18,17 @@ Clonar el repositorio:
 
 git clone https://github.com/tu-usuario/tu-proyecto.git
 
-Instala las dependencias:
-cd GestionTareasCRUD
-cd backend
-npm install
-
-Inicia la aplicación:
-npm run start
+Instalar las dependencias:
+Clonar el repositorio:
+   ```sh
+   git clone https://github.com/ArthurXIX/GestionTareasCRUD
+   ```
+```sh
+   cd GestionTareasCRUD
+   cd backend
+   npm install
+   ```
+   Iniciar el backend con el comando
+```sh
+   npm run start
+   ```
