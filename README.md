@@ -13,16 +13,11 @@ Proyecto web creado para entrevista tecnica.
 ---
 
 # Instalacion 🛠️
-
-Clonar el repositorio:
-
-git clone https://github.com/tu-usuario/tu-proyecto.git
-
-Instalar las dependencias:
 Clonar el repositorio:
    ```sh
    git clone https://github.com/ArthurXIX/GestionTareasCRUD
    ```
+Ejecutar los siguientes comandos
 ```sh
    cd GestionTareasCRUD
    cd backend
